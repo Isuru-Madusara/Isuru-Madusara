@@ -48,4 +48,3 @@ AWS, Linux, Terraform, Ansible, Docker networking, and troubleshooting.
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Isuru-Madusara&show_icons=true&theme=dark" />
 </p>
 
-⚡ **Fun fact:** I trust `terraform plan` more than most weather forecasts.
