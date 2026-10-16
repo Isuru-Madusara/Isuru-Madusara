@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & TechOps Practitioner ⚙️ | AWS, Linux, Terraform, Docker | Aspiring SRE & Platform Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isuru Madusara&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Isuru-Madusara&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -44,8 +44,8 @@ AWS, Linux, Terraform, Ansible, Docker networking, and troubleshooting.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru Madusara&layout=compact&theme=dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Isuru MAdusara&show_icons=true&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-Madusara&layout=compact&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Isuru-Madusara&show_icons=true&theme=dark" />
 </p>
 
 ⚡ **Fun fact:** I trust `terraform plan` more than most weather forecasts.
